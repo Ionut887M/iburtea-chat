@@ -21,3 +21,4 @@ Deoarece Haystack funcționează pe baza agenților, iar aceștia lucrează și 
 
 La ultimul pas, am creat un prompt pentru agent, prin care îl învăț cum ar trebui să răspundă, ce ar trebui să spună, cum ar trebui sa genereze răspunsul, ce metode să folosească, de unde să își procure informațiile și care trebuie să fie forma finală a răspunsului.
 
+Pentru a rula proiectul și a primi oferta generată, în ultima linie de cod modificați cu întrebarea dorită și dați run proiectului.
